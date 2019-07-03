@@ -11,3 +11,4 @@ trained_model includes frozen_inference_graph.pb after training was complete.
 tensorflowJS includes example of nueral network in javascript. This particular example takes rgb values and predicts what the color is based 
 on which value is the greastest (red,green or blue). It works! Now to we can begin to try transfer learning to build custom object detection in JS. 
 
+*The frozen_inference_graph.pb could not be uploaded do to massive file size
